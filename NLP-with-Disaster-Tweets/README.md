@@ -1,6 +1,4 @@
-# Kaggle Competition Submission - Natural Language Processing with Disaster Tweets
-
-## Team Name: [Your Team Name]
+# Kaggle Competition Submission - Natural Language Processing with Disaster Tweets 
 
 ## Team Members:
 - Atul Parida
