@@ -18,7 +18,7 @@
 - You can find my code for this competition in the notebook titled ```submission_v1.ipynb``` associated with this repository.
 
 ## Results:
-- The final submission achieved an accuracy of ```0.9``` on the test set.
+- The final submission achieved an accuracy of ```0.88150``` on the test set.
 - I had a great learning experience participating in this competition, and it was a good opportunity to apply basic ML techniques to a public dataset.
 - I would like to express my gratitude to the competition hosts for providing the dataset and the platform for this competition.
 
